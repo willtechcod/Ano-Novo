@@ -29,13 +29,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <h3 align="center" >Vamos nos conectar 😉</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/william-pereira-da-concei%C3%A7%C3%A3o-ba4496127/">
-    <img alt="LinkedIn" width="22px" src=".img/linkedin.svg" />
+    <img alt="LinkedIn" width="22px" src="./img/linkedin.svg" />
   </a>&ensp;
   <a href="mailto:dev.pereira2019@gmail.com">
-    <img alt="Email" width="22px" src=".img/gmail.svg" />
+    <img alt="Email" width="22px" src="./img/gmail.svg" />
   </a>&ensp;
   <a href="https://www.instagram.com/willtechcode/">
-    <img alt="Instagram" width="22px" src=".img/instagram.svg" />
+    <img alt="Instagram" width="22px" src="./img/instagram.svg" />
   </a>
 </p>
 <br />
