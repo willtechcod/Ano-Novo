@@ -17,7 +17,8 @@ Projeto desenvolvido para testar minhas habilidades com html, css e javascript b
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [HTML](https://www.w3schools.com/html/)
-- [CSS](https://www.w3schools.com/css/) -[JAVASCRIPT](https://www.w3schools.com/js/)
+- [CSS](https://www.w3schools.com/css/)
+- [JAVASCRIPT](https://www.w3schools.com/js/)
 
 ## Como acessar o projeto
 
