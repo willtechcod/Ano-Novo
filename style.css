@@ -1,0 +1,166 @@
+<<<<<<< HEAD
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+body{
+    background: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Roboto;
+}
+
+.logo{
+    width: 380px;
+    height: 380;
+    
+}
+
+h1{
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: normal;
+    font-size: 2rem;
+    margin-top: 2.5rem;
+    text-transform: uppercase;
+}
+
+.dia{
+    color: blue;
+}
+
+.hora{
+    color: turquoise;
+}
+
+.minuto{
+    color: orange;
+}
+
+.segundo{
+    color: red;
+}
+
+.countdown-el {
+    color: #000;
+}
+
+.countdown-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.text{
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+
+.countdown-el{
+    text-align: center;
+}
+
+.countdown-el span{
+    font-size: 1.5rem;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: 100px;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+body{
+    background: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Roboto;
+}
+
+.logo{
+    width: 380px;
+    height: 380;
+    
+}
+
+h1{
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: normal;
+    font-size: 2rem;
+    margin-top: 2.5rem;
+    text-transform: uppercase;
+}
+
+.dia{
+    color: blue;
+}
+
+.hora{
+    color: turquoise;
+}
+
+.minuto{
+    color: orange;
+}
+
+.segundo{
+    color: red;
+}
+
+.countdown-el {
+    color: #000;
+}
+
+.countdown-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.text{
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+
+.countdown-el{
+    text-align: center;
+}
+
+.countdown-el span{
+    font-size: 1.5rem;
+}
+
+.container{
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    color: rgba(0, 0, 0, 0.7);
+    margin-top: 100px;
+>>>>>>> 38328052636de1e01523509f5257f1cc7b8c7890
+}
