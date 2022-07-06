@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Como acessar o projeto
 
-[Clique aqui](https://willtechcod.github.io/Rel-gio-fim-do-ano/)
+[Clique aqui](https://willtechcod.github.io/Ano-Novo/)
 
 ---
 
