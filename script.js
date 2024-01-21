@@ -8,7 +8,7 @@ const secondsEl = document.getElementById("seconds");
 
 //criando uma representação do ano novo
 
-const newYears = "1 jan 2024";
+const newYears = "1 jan 2025";
 
 // para o cronometro funcionar tem que criar uma função!
 
